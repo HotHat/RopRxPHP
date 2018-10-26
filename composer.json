@@ -1,0 +1,8 @@
+{
+    "name": "root/rx-test",
+    "require": {
+        "react/event-loop": "^1.0",
+        "reactivex/rxphp": "^2.0",
+        "symfony/http-foundation": "^4.1"
+    }
+}
